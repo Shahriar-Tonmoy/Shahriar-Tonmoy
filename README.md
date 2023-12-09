@@ -22,7 +22,7 @@
 
 # <img src="projects.png" width="20" height="20">&nbsp;&nbsp;Projects
 
-# 1.Hexagon
+# 1. Hexagon
 ## Real estate Platform (an online platform where people can add and buy real estate properties)
 
 ### Feature 1: 
@@ -69,7 +69,7 @@ There are three types of dashboard - admin, agent, and normal users
   </a>
 </p>
 
-# N E E D
+# 2. N E E D
 
 ## A online job marketplace where people can post a job and also can bid for a job
 
