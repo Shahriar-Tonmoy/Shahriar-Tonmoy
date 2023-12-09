@@ -2,14 +2,20 @@
 
 ![The San Juan Mountains are beautiful!](cover.png)
 
-## <img style="margin-right:10px" src="stats1.png" width="20" height="20">Current Stats
+<style>
+    .gap{
+        margin-right:10px
+    }
+</style>
+
+## <img class="gap" src="stats1.png" width="20" height="20">Current Stats
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahriar-Tonmoy&theme=react&hide_border=true&border_radius=10.7&card_width=505" />
   </a>
 </p>
 
-## <img style="margin-right:10px" src="tech.png" width="20" height="20">Technical Skills
+## <img class="gap" src="tech.png" width="20" height="20">Technical Skills
 <P align="center">Proficient in HTML, CSS, Tailwind, React, Express, and MongoDB for web development. </P>
 
 <p align="center"> 
