@@ -1,6 +1,6 @@
 ### Hi there 
 
-![The San Juan Mountains are beautiful!](Group_1.png)
+![The San Juan Mountains are beautiful!](cover.png)
 
 <p align="center">
   <a href="https://git.io/streak-stats">
