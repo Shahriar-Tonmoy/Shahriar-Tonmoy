@@ -10,9 +10,11 @@
 </p>
 
 ## Technical Skills
-<p align="center">
+<P align="center">Proficient in HTML, CSS, Tailwind, React, Express, and MongoDB for web development. </P>
+
+<p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,express,mongo" />
   </a>
 </p>
 
@@ -25,14 +27,14 @@
 
 <!-- **Shahriar-Tonmoy/Shahriar-Tonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Current Overview
+<!-- ## Current Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning Ne
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
