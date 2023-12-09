@@ -22,7 +22,7 @@
 
 # <img src="projects.png" width="20" height="20">&nbsp;&nbsp;Projects
 
-# Hexagon
+# 1.Hexagon
 ## Real estate Platform (an online platform where people can add and buy real estate properties)
 
 ### Feature 1: 
