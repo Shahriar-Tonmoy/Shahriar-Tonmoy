@@ -153,10 +153,9 @@ User can add a new product from "Add Product" section on nav-bar
 
 ## Current Overview
 
-
-- 🌱 I’m currently learning Next JS
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently learning Next JS
 - 💬 Ask me about anything
 - 📫 How to reach me: shahriartonmoy22@gmail.com
 - 😄 Pronouns: he/him
