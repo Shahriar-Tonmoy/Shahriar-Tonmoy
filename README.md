@@ -1,7 +1,28 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**Shahriar-Tonmoy/Shahriar-Tonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![The San Juan Mountains are beautiful!](Group_1.png)
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shahriar-Tonmoy&theme=react&hide_border=true&border_radius=10.7&card_width=505" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+<!-- **Shahriar-Tonmoy/Shahriar-Tonmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +33,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
