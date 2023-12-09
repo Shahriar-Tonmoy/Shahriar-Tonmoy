@@ -71,7 +71,7 @@ There are three types of dashboard - admin, agent, and normal users
 
 # 2. N E E D
 
-## A online job marketplace where people can post a job and also can bid for a job
+## An online job marketplace where people can post a job and also can bid for a job
 
 ### Feature 1: 
 User can create his/her own account or log in with google. This is controlled by firebase authentication system.  
