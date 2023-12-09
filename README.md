@@ -1,12 +1,15 @@
 
+<head>
+    <style>
+        .gap{
+            margin-right:10px
+        }
+    </style>
+</head>
 
 ![The San Juan Mountains are beautiful!](cover.png)
 
-<style>
-    .gap{
-        margin-right:10px
-    }
-</style>
+
 
 ## <img class="gap" src="stats1.png" width="20" height="20">Current Stats
 <p align="center">
