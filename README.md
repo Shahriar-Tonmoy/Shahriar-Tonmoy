@@ -60,7 +60,7 @@ There are three types of dashboard - admin, agent, and normal users
 - There is an advertisement section. These advertised properties are selected to be advertised by admin. Admin can also remove any advertise anytime from his dashboard.
 
 ## Live Link:
-[https://shimmering-crostata-52a706.netlify.app/](https://shimmering-crostata-52a706.netlify.app/)
+[https://659fdebf9dcf1b03279a1061--shimmering-crostata-52a706.netlify.app/](https://659fdebf9dcf1b03279a1061--shimmering-crostata-52a706.netlify.app/)
 
 ## Technologies
 <p align="center"> 
